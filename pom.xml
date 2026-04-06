@@ -37,14 +37,14 @@
 </repository>
 	</repositories>
 	<distributionManagement>
-   <snapshotRepository>
-      <id>nexusRepo</id>
-      <url>http://34.208.218.12:8081/repository/sample-snapshots/</url>
-   </snapshotRepository>
-   <repository>
-      <id>nexusRepo</id>
-      <url>http://3.92.189.150:8081/repository/myrepo/</url>
-   </repository>
+  <repository>
+    <id>mydevops-feed</id>
+    <url>http://3.92.189.150:8081/repository/mydevops-feed/</url>
+  </repository>
+  <snapshotRepository>
+    <id>mydevops-feed</id>
+    <url>http://3.92.189.150:8081/repository/mydevops-feed/</url>
+  </snapshotRepository>
 </distributionManagement>
 	
 	<pluginRepositories>
