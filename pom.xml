@@ -43,7 +43,7 @@
   </repository>
   <snapshotRepository>
     <id>mydevops-feed</id>
-    <url>http://3.92.189.150:8081/repository/mydevops-feed/</url>
+    <url>http://54.83.40.40:8081/repository/myrepo/</url>
   </snapshotRepository>
 </distributionManagement>
 	
